@@ -11,6 +11,8 @@ public class ScrollSnapRect : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
 
     [Tooltip("Set starting page index - starting from 0")]
     public int startingPage = 0;
+    [Tooltip("Set starting page index - starting from 0")]
+    public int curentPage = 0;
     [Tooltip("Threshold time for fast swipe in seconds")]
     public float fastSwipeThresholdTime = 0.3f;
     [Tooltip("Threshold time for fast swipe in (unscaled) pixels")]

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9b67097b5aa9a5448d2b6d6e9691401
+timeCreated: 1513343157
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ringbear
+  fontNames:
+  - Ringbear
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
